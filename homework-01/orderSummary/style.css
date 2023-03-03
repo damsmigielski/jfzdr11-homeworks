@@ -1,0 +1,140 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  body {
+    background-image: url("./images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-color: hsl(225, 100%, 94%);
+    margin: initial;
+    font-family: 'Red Hat Display', sans-serif;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  p {
+    font-size: 16px;
+    text-align: center;
+    padding: center;
+    margin: -50px 60px 20px 60px;
+    color: hsl(224, 23%, 55%);
+  }
+
+  .gfx {
+    border-radius: 20px 20px 0px 0px;
+    align-items: center;
+    margin: auto;
+    /* display: flex; */
+  }
+
+  section {
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 10px 20px #dedbf8;
+
+
+
+
+  }
+
+  h1 {
+    margin-top: -30px;
+    padding: 60px;
+    text-align: center;
+    color: hsl(223, 47%, 23%);
+  }
+
+  .centerbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+    margin: 0;
+
+  }
+
+  button {
+    color: white;
+    background-color: hsl(245, 75%, 52%);
+    margin-top: 15px;
+    border: none;
+    width: 300px;
+    height: 45px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 20px #dedbf8;
+    cursor: pointer;
+    transition-duration: 0.5s;
+  }
+
+  button:hover {
+    background-color: #766cf1;
+    color: white;
+  }
+
+  .cancel {
+    text-align: center;
+    padding: 15px 20px 50px 20px;
+    color: hsl(224, 23%, 55%);
+  }
+
+  .cancel:hover {
+    cursor: pointer;
+    transition-duration: 0.5s;
+    color: hsl(223, 47%, 23%);
+    ;
+  }
+
+  .plan {
+    background-color: hsl(225, 100%, 98%);
+    width: 300px;
+    height: 80px;
+    margin: auto;
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+  }
+
+  .music {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    margin: 20px 20px 20px 20px;
+  }
+
+  ul {
+    padding-left: 0px;
+    list-style: none;
+  }
+
+  .year {
+    color: hsl(224, 23%, 55%);
+  }
+
+  .change {
+    list-style: none;
+    padding-left: 45px;
+    padding-top: 25px;
+    cursor: pointer;
+    text-decoration-line: underline;
+    color: #551A8B;
+  }
+
+  .change:hover {
+    color: #766cf1;
+    text-decoration-line: none;
+  }
+
+  .annual {
+    color: hsl(223, 47%, 23%);
+  }

@@ -1,0 +1,105 @@
+body {
+    background-color: #f3eae3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+  }
+
+  .attribution {
+    font-size: 11px;
+    justify-content: center;
+    width: 200px;
+    margin: 20px 140px 20px 40px;
+    display: flexbox;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  img {
+    width: 400px;
+    height: auto;
+    border-radius: 25px 0px 0px 25px;
+  }
+
+  .right {
+    width: 400px;
+    height: 600px;
+    background: white;
+    border-radius: 0px 25px 25px 0px;
+  }
+
+  .icon {
+    vertical-align: middle;
+    width: 16px;
+    margin-right: 15px;
+    border-radius: 0px 0px 0px 0px;
+  }
+
+  .perfume {
+    margin: 60px 20px 20px 40px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 10px;
+    color: hsl(228, 12%, 48%);
+  }
+
+  h1 {
+    margin: 30px 70px 10px 40px;
+    font-size: 48px;
+    font-family: 'Fraunces', serif;
+    line-height: 43px;
+  }
+
+  .main {
+    margin: 30px 50px 0px 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    padding-top: 0px;
+    color: hsl(228, 12%, 48%);
+  }
+
+  .price {
+    margin: 35px 145px 20px 40px;
+    font-size: 40px;
+    color: hsl(158, 36%, 37%);
+    font-family: 'Fraunces', serif;
+  }
+
+  .linia {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
+    font-size: 12px;
+    vertical-align: middle;
+    margin-left: 20px;
+  }
+
+  .button {
+    margin: 35px 50px 20px 40px;
+    background-color: #3d8168;
+    border: none;
+    border-radius: 6px;
+    padding: 15px 80px;
+    vertical-align: middle;
+  }
+
+  .button:hover {
+    color: blue;
+    background-color: #1a4031;
+  }
+
+  span {
+    color: #3d8168;
+    vertical-align: middle;
+  }
+
+  .cart {
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+  }
