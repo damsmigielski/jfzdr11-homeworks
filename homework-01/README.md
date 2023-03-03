@@ -42,11 +42,11 @@ Oceniane są:
 
 **Git - 7 punktów**
 
-**Projekty - 8 punktów**
+**Projekty - 10 punktów**
 
 ---
 
-**Razem: 15 punktów**
+**Razem: 17 punktów**
 
 Pracę oddajemy do 24 lutego 2023 (chyba, że wszyscy wypełnią ankiety, wówczas dajemy sobie czas do 26 lutego 😁 )
 
